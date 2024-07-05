@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="fon">
+    <file>fon 1.png</file>
+  </qresource>
+  <qresource prefix="chat">
+    <file>img_chat.png</file>
+  </qresource>
+  <qresource prefix="zv">
+    <file>zvmin_on.png</file>
+    <file>zv_on.png</file>
+    <file>zvmin.png</file>
+    <file>zv.png</file>
+  </qresource>
+  <qresource prefix="map">
+    <file>img map 2.png</file>
+    <file>img map.png</file>
+  </qresource>
+  <qresource prefix="ico osn">
+    <file>admin img.png</file>
+    <file>vodila im.png</file>
+    <file>Line 2.png</file>
+    <file>rect act.png</file>
+    <file>ico str.png</file>
+    <file>Line 1.png</file>
+    <file>user image.png</file>
+    <file>ico col.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>TAXI.png</file>
+  </qresource>
+  <qresource prefix="ico main">
+    <file>ico exit.png</file>
+    <file>ico sve.png</file>
+  </qresource>
+  <qresource prefix="ico">
+    <file>ico 1.png</file>
+    <file>ico 2.png</file>
+  </qresource>
+</RCC>
